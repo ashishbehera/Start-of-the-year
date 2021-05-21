@@ -1,2 +1,2 @@
 # Start-of-the-year
-website link :https://ashishbehera.github.io/Startup-of-the-year/
+website link :https://ashishbehera.github.io/startup-of-the-year/
